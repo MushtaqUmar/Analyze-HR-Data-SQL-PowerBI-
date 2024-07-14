@@ -38,14 +38,25 @@ Total Employee Terminated = 1302.
 ### Key Insights:
 
    -> Balanced gender distribution.However there are more male employees.
+   
    -> White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
-   -> The youngest employee is around 20 years old and the oldest is around 58 years old
+   
+   -> The youngest employee is around 20 years old and the oldest is around 58 years old.
+   
    -> 5 age groups were created (18-24, 25-35, 36-45, 46-55, 55+. A large number of employees were between 25-34 followed by 35-45 while the smallest group was 55+.
+   
    -> A large number of employees work at the headquarters than remotely.
+   
    -> The average length of employment for terminated employees is around 8 years.
+   
    -> The gender distribution across departments is fairly balanced but there are generally more male than female employees.
+   
    -> The Auduting department has the highest turnover rate followed by Support. The least turn over rate are in the Marketing, Business Development.
+   
    -> A large number of employees come from the state of Ohio & least come from Wisconsin.
+   
    -> The net change in employees has increased over the years.
+   
    -> The average tenure for each department is about 8 years with sales and Auditing having the highest and Services, Business Development having the lowest.
    
+
