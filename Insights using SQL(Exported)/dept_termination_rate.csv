@@ -1,0 +1,14 @@
+department,total_count,term_count,term_ratio
+Auditing,30,8,0.2667
+Support,505,65,0.1287
+Training,863,110,0.1275
+Services,858,105,0.1224
+Legal,148,18,0.1216
+"Research and Development",550,64,0.1164
+"Product Management",338,39,0.1154
+Engineering,3429,394,0.1149
+"Human Resources",961,110,0.1145
+Accounting,1693,188,0.1110
+Sales,928,98,0.1056
+"Business Development",833,86,0.1032
+Marketing,247,17,0.0688
