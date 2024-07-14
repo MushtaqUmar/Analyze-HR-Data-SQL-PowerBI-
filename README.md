@@ -2,7 +2,7 @@
   Clean and Analyze Human Resources data of an organization using MySQL to extract useful insights from it.Then Visualize the insights using Power BI that will help HR department to make better decisions for future. 
 
 ### Key Steps:
-DataSet : HR dataset of employees from 2000-2020.
+DataSet : Understand HR dataset of employees from 2000-2020.
 MySQL   : Data Cleaning and Analysis for insights.
 Power BI : Visualization of key insights.
 
