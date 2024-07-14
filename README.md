@@ -3,7 +3,9 @@
 
 ### Key Steps:
 DataSet : Understand HR dataset of employees from 2000-2020.
+
 MySQL   : Data Cleaning and Analysis for insights.
+
 Power BI : Visualization of key insights.
 
 ### Major Cleaning:
